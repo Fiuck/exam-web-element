@@ -2,10 +2,10 @@
 
 ```bash
 # 克隆项目
-git clone https://gitee.com/y_project/RuoYi-Vue
+git clone git@gitee.com:worldzwx/exam-web-element.git
 
 # 进入项目目录
-cd ruoyi-ui
+cd exam-web-element
 
 # 安装依赖
 npm install
@@ -17,7 +17,7 @@ npm install --registry=https://registry.npm.taobao.org
 npm run dev
 ```
 
-浏览器访问 http://localhost:80
+浏览器访问 http://localhost:8000
 
 ## 发布
 
